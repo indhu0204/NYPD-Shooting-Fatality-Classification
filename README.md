@@ -82,7 +82,8 @@ I executed 5 systematic experiments testing 13 configurations:
 **Indhu Reddy Kottalam Raveendra Reddy**
 MSc Data Science Student
 University of Hertfordshire
-*Module: 7PAM2002 Data Science Project*
+
+*Module: 7PAM2002-0206-2025 Data Science Project*
 
 ***
 
