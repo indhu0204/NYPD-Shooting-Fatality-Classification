@@ -1,7 +1,0 @@
-Rank,Experiment,Model,Features,Strategy,AUC,Accuracy,Precision_Fatal,Recall_Fatal,F1_Fatal
-1st,Exp 5,Random Forest,Simple_04 (4),Class Weights,0.675,0.8,0.473,0.31,0.374
-2nd,Exp 4,Random Forest,Simple_02 (5),Class Weights,0.671,0.8,0.473,0.31,0.374
-3rd,Exp 2,Random Forest,Simple_02 (5),SMOTE,0.654,0.753,0.337,0.289,0.311
-4,Exp 3,Gradient Boosting,Full (13),Class Weights,0.584,0.562,0.233,0.555,0.328
-5,Exp 3,Random Forest,Full (13),Class Weights,0.577,0.787,0.374,0.153,0.218
-Baseline,Exp 1,Random Forest,Full (13),SMOTE,0.555,0.762,0.291,0.163,0.209
