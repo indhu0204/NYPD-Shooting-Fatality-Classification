@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## 5. Usage
 1.  Open the `NYPD_Fatality_Analysis_Final.ipynb` in a Jupyter environment or Google Colab.
-2.  Ensure the `.csv` file and `.pkl` model files are in the same directory as the notebook.
+2.  Ensure the `.csv` file  are in the same directory as the notebook.
 3.  The notebook is organized into 29 sections covering everything from initial data cleaning to the interactive **Gradio deployment** at the end.
 4.  Run the final Gradio cell to launch the web interface for real-time risk scoring.
 
@@ -79,6 +79,7 @@ I executed 5 systematic experiments testing 13 configurations:
 
 ## 7. Author
 **Indhu Reddy Kottalam Raveendra Reddy**
+**24096112**
 MSc Data Science Student
 University of Hertfordshire
 
