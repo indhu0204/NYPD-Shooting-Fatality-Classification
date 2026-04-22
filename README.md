@@ -32,10 +32,11 @@ Using 17 years of official NYPD administrative records, I conducted a systematic
 The repository is organized for easy access to the data, code, and final documentation:
 
 ```text
-├── NYPD_Shooting_Incident_Data_Historic.csv # Dataset used for analysis
+├── NYPD_Shooting_Incident_Data_Historic_.csv # Dataset used for analysis
 ├── NYPD_Fatality_Analysis_Final.ipynb        # Complete Python Notebook (EDA & Modeling)
 ├── Project_Presentation.pdf                # Project Presentation Slides
 ├── Final_Project_Report.pdf                 # Comprehensive Academic Report
+├── All_experiment_results.csv                # results of all models in csv
 ├── requirements.txt                         # List of Python dependencies
 └── README.md                                # Project documentation
 ```
