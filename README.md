@@ -34,11 +34,9 @@ The repository is organized for easy access to the data, code, and final documen
 ```text
 ├── NYPD_Shooting_Incident_Data_Historic.csv # Dataset used for analysis
 ├── NYPD_Fatality_Analysis_Final.ipynb        # Complete Python Notebook (EDA & Modeling)
-├── Project_Presentation.pptx                # Project Presentation Slides
+├── Project_Presentation.pdf                # Project Presentation Slides
 ├── Final_Project_Report.pdf                 # Comprehensive Academic Report
 ├── requirements.txt                         # List of Python dependencies
-├── final_model_rf.pkl                       # Trained Random Forest Model
-├── final_scaler.pkl                         # Fitted StandardScaler object
 └── README.md                                # Project documentation
 ```
 
